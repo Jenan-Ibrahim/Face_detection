@@ -1,7 +1,7 @@
 # Face_detection
-**_1. download python from_** 'https://www.python.org/downloads/'
+**_1. Download python from_** 'https://www.python.org/downloads/'
 
-**_2. install opencv library:_**
+**_2. Install opencv library:_**
 
 ```
 $ pip install opencv-python
