@@ -7,4 +7,4 @@
 $ pip install opencv-python
 ```
 
-**_3. Using PyCharm or any other Python IDE use the codes uploaded in the file above._**
+**_3. Using PyCharm or any other Python IDE use the codes uploaded in the files above._**
